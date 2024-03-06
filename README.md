@@ -1,1 +1,1 @@
-# This is My personal Competitive Programming templates in C++
+# My personal Competitive Programming templates in C++
